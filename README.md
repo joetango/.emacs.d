@@ -1,2 +1,2 @@
-# .emacs.d
-.emacs.d
+# NO SMOKING PLEASE
+unless of course, you share ;)
